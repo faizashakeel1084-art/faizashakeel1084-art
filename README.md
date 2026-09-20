@@ -1,17 +1,18 @@
 <div align="center">
 
-# Faiza Shakeel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:0A0E14&height=180&section=header&text=FAIZA%20SHAKEEL&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=45&desc=AI%20Student%20%C2%B7%20Systems%20Builder&descAlignY=65&descSize=16&descColor=8FA3AD" width="100%"/>
 
-### AI Student · Building Toward Production-Grade Intelligent Systems
+<br>
 
-*BS Artificial Intelligence — COMSATS University Islamabad, Lahore Campus*
+<a href="https://github.com/faizashakeel1084-art">
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+intelligent+systems%2C+one+working+version+at+a+time.;BS+Artificial+Intelligence+%E2%80%94+COMSATS+University+Islamabad;Currently%3A+deepening+C%2B%2B%2C+moving+into+Python+%2B+ML&font=Fira+Code&center=true&width=640&height=45&color=00E5FF&vCenter=true&size=16&pause=2200&background=00000000" alt="typing-animation"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A6A1F0?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/faiza-s-85748041b)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D4AF37?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:faizashakeel1084@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-faizashakeel1084--art-A6A1F0?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/faizashakeel1084-art)
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=faizashakeel1084-art&color=D4AF37&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/faizashakeel1084-art?label=Followers&style=flat-square&color=A6A1F0&labelColor=1a1a1a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=flat-square&logo=linkedin&logoColor=0A0E14&labelColor=0A0E14)](https://www.linkedin.com/in/faiza-s-85748041b)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-00E5FF?style=flat-square&logo=gmail&logoColor=0A0E14&labelColor=0A0E14)](mailto:faizashakeel1084@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-faizashakeel1084--art-00E5FF?style=flat-square&logo=github&logoColor=0A0E14&labelColor=0A0E14)](https://github.com/faizashakeel1084-art)
 
 </div>
 
@@ -19,23 +20,36 @@
 
 ## About
 
-I'm an AI undergraduate who learns by shipping small, real systems rather than just reading theory. Most of my work right now lives at the intersection of core programming fundamentals and applied AI — I build the underlying logic first, then layer intelligence on top of it.
+I study Artificial Intelligence at COMSATS University Islamabad, and I approach it the way an engineer approaches a system — build it, break it, understand why it broke, rebuild it correctly. My foundation is C++, where structure and precision aren't optional; I'm now extending that discipline into Python and the applied AI stack.
 
-- **Strong in:** C++ — structured, logic-driven programming
-- **Currently learning:** Python fundamentals, and building toward core AI/ML concepts
-- **Currently building:** A C++ project rebuilt in Python, to compare implementations and sharpen fluency across both languages
-- **Looking to collaborate on:** Beginner-friendly Python and C++ projects
-- **Based in:** Lahore, Pakistan
+I don't publish a project until I understand every line in it. That's slower, but it's the only way the learning actually sticks.
 
 <br>
 
 ## Currently
 
-```
-Building     →  Rebuilding a C++ system in Python to deepen language fluency
-Learning     →  Python fundamentals, core AI/ML concepts
-Direction    →  Moving from foundational programming into applied AI engineering
-```
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Building**
+Rewriting a C++ system in Python to compare both languages at the implementation level, not just in theory.
+
+</td>
+<td width="33%" valign="top">
+
+**Learning**
+Python fundamentals, with a deliberate path toward core machine learning concepts.
+
+</td>
+<td width="33%" valign="top">
+
+**Direction**
+From foundational programming toward applied AI engineering.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -47,30 +61,30 @@ COMSATS University Islamabad — Lahore Campus
 
 <br>
 
-## Featured Projects
+## Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Library Management System
+<h3>📚 Library Management System</h3>
 
-A C++ system for managing library records and operations — built to practice structured, logic-driven programming without relying on higher-level abstractions.
+A console-based system for managing library records — built entirely in C++ to reinforce structured, logic-first programming without relying on higher-level abstractions.
 
-**Stack:** C++
+`C++`
 
-🔗 [View Code](https://github.com/faizashakeel1084-art/library-management-system-cpp)
+**[→ View Code](https://github.com/faizashakeel1084-art/library-management-system-cpp)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🏦 Smart Banking System
+<h3>🏦 Smart Banking System</h3>
 
-A banking operations system originally built in C++, now being rebuilt in Python as a way to compare language paradigms and sharpen implementation skills across both.
+A banking operations system, originally implemented in C++ and now being rebuilt in Python — a direct comparison exercise in language paradigms and implementation fluency.
 
-**Stack:** C++ → Python (in progress)
+`C++` `Python (in progress)`
 
-🔗 [View Code](https://github.com/faizashakeel1084-art/smart-banking-system-)
+**[→ View Code](https://github.com/faizashakeel1084-art/smart-banking-system-)**
 
 </td>
 </tr>
@@ -80,35 +94,48 @@ A banking operations system originally built in C++, now being rebuilt in Python
 
 ## Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=D4AF37)
-![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=A6A1F0)
+![Python](https://img.shields.io/badge/Python-0A0E14?style=flat-square&logo=python&logoColor=00E5FF)
+![C++](https://img.shields.io/badge/C++-0A0E14?style=flat-square&logo=cplusplus&logoColor=00E5FF)
+
+</td>
+<td valign="top" width="50%">
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=D4AF37)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=A6A1F0)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-1a1a1a?style=flat-square&logo=githubpages&logoColor=D4AF37)
+![Git](https://img.shields.io/badge/Git-0A0E14?style=flat-square&logo=git&logoColor=00E5FF)
+![GitHub](https://img.shields.io/badge/GitHub-0A0E14?style=flat-square&logo=github&logoColor=00E5FF)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-0A0E14?style=flat-square&logo=githubpages&logoColor=00E5FF)
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## GitHub Stats
+## Building in Public
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=faizashakeel1084-art&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=D4AF37&icon_color=A6A1F0&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizashakeel1084-art&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=D4AF37&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=faizashakeel1084-art&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=00E5FF&icon_color=00E5FF&text_color=8FA3AD" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizashakeel1084-art&layout=compact&hide_border=true&bg_color=0A0E14&title_color=00E5FF&text_color=8FA3AD" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizashakeel1084-art&hide_border=true&background=1a1a1a&stroke=1a1a1a&ring=D4AF37&fire=A6A1F0&currStreakLabel=D4AF37" />
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizashakeel1084-art&hide_border=true&background=0A0E14&stroke=0A0E14&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=8FA3AD&currStreakNum=8FA3AD&sideNums=8FA3AD&dates=8FA3AD" />
 
 </div>
 
 <details>
-<summary>Activity Graph</summary>
+<summary><b>Contribution Graph</b></summary>
 <br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizashakeel1084-art&bg_color=1a1a1a&color=D4AF37&line=A6A1F0&point=ffffff&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizashakeel1084-art&bg_color=0A0E14&color=00E5FF&line=00E5FF&point=ffffff&hide_border=true" width="100%"/>
 
 </details>
 
@@ -116,10 +143,16 @@ A banking operations system originally built in C++, now being rebuilt in Python
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A6A1F0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/faiza-s-85748041b)
-[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:faizashakeel1084@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A6A1F0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a)](https://github.com/faizashakeel1084-art/my_portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0A0E14&labelColor=0A0E14)](https://www.linkedin.com/in/faiza-s-85748041b)
+[![Email](https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=0A0E14&labelColor=0A0E14)](mailto:faizashakeel1084@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0A0E14&labelColor=0A0E14)](https://github.com/faizashakeel1084-art/my_portfolio)
+
+<br>
 
 <div align="center">
-<sub>Learning in the open, one system at a time.</sub>
+
+<sub>Some of this is finished. All of it is being built with intent.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:0A0E14&height=100&section=footer" width="100%"/>
+
 </div>
