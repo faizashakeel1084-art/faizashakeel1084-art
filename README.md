@@ -30,15 +30,15 @@
 <table border="0" width="100%">
   <tr>
     <td width="62%" valign="top">
-      <h2>🎓 About Me</h2>
+      <h2>✨ About Me</h2>
       <p>
-        I am a <b>BS Artificial Intelligence</b> student at <b>COMSATS University Islamabad, Lahore Campus</b> with a <b>CGPA of 3.80 / 4.00</b>.
+        Driven by a passion for solving complex computational problems, I focus on engineering robust software architectures and exploring the frontiers of <b>Artificial Intelligence</b>.
       </p>
       <p>
-        My core passion lies in <b>Artificial Intelligence</b>, <b>Data Structures</b>, and building clean, efficient software in <b>Python & C++</b> — currently learning <b>Object-Oriented Programming (OOP)</b> as the next step.
+        I specialize in core software design using <b>Python</b> and <b>C++</b>, leveraging strong foundations in <b>Data Structures</b>, algorithmic efficiency, and low-level system interactions like file handling. Currently, I am expanding my technical toolkit with advanced <b>Object-Oriented Programming (OOP)</b> principles to build scalable, production-grade intelligent systems.
       </p>
       <p>
-        <i>"I like breaking complex problems down, working out the underlying logic, and building intelligent systems that scale."</i>
+        <i>"I thrive on deconstructing intricate problems, engineering clean logic from the ground up, and building technology that pushes boundaries."</i>
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
@@ -46,6 +46,18 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🎓 Academic Background
+
+<div align="center">
+
+| Degree | Institution | Performance Metric | Status |
+| :--- | :--- | :---: | :---: |
+| <b>BS Artificial Intelligence</b> | 🏛️ <b>COMSATS University Islamabad</b><br/><i>Lahore Campus</i> | <img src="https://img.shields.io/badge/CGPA-3.80%20%2F%204.00-00FF9D?style=for-the-badge&logoColor=black"/> | 🟢 In Progress |
+
+</div>
 
 ---
 
