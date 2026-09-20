@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC CAPSULE WAVE BANNER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,11,32,00FF9D,7B2CBF&height=220&section=header&text=Faiza%20Shakeel&fontSize=50&fontAlignY=38&animation=twinkling&desc=AI%20Student%20%7C%20Systems%20Builder&descAlignY=62&descScale=18" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,11,32,00FF9D,7B2CBF&height=220&section=header&text=Faiza%20Shakeel&fontSize=50&fontAlignY=38&animation=twinkling&desc=Aspiring%20AI%20Engineer%20%7C%20AI%20Builder%20%7C%20Lifelong%20Learner&descAlignY=62&descScale=16" width="100%" alt="Header Banner"/>
 
 <p align="center"><i>✨ Mastering the fundamentals to build the extraordinary. ✨</i></p>
 
@@ -26,25 +26,20 @@
 
 </div>
 
-<br/>
+---
 
-<!-- HERO ABOUT ME SECTION WITH PICTURE -->
-<table border="0" width="100%">
-  <tr>
-    <td width="62%" valign="top">
-      <h2>✨ About Me</h2>
-      <p>
-        <b>To me, AI is all about breaking down complex real-world problems and building elegant systems to solve them.</b>
-      </p>
-      <p>
-        As an Artificial Intelligence student, my focus centers on core software engineering with <b>Python</b> and <b>C++</b>, backed by strong foundations in <b>Data Structures</b>, memory management, and file handling logic. To transition my projects into scalable, production-ready software, I am currently mastering <b>Object-Oriented Programming (OOP)</b> principles. I enjoy designing clean logic, understanding technology under the hood, and building smarter solutions step by step.
-      </p>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/faizashakeel1084-art/faizashakeel1084-art/main/profile.jpg" width="190px" style="border-radius: 20px; border: 2px solid #00FF9D; box-shadow: 0px 4px 20px rgba(0, 255, 157, 0.4);" alt="Faiza Shakeel"/>
-    </td>
-  </tr>
-</table>
+<h2>🎓 About Me</h2>
+
+<img align="right" src="https://raw.githubusercontent.com/faizashakeel1084-art/faizashakeel1084-art/main/profile.jpg" width="180px" style="border-radius: 12px; margin-left: 15px;" alt="Faiza Shakeel"/>
+
+I'm a **BS Artificial Intelligence** student at **COMSATS University Islamabad, Lahore Campus**, currently building my skills in **Python, C++,** and software development.
+
+To me, AI is all about breaking down complex real-world problems and building elegant systems to solve them. Right now I'm strengthening my foundations in **data structures, algorithms, and core AI concepts** — and mastering **Object-Oriented Programming (OOP)** to transition into scalable software.
+
+* 🤖 **BS Artificial Intelligence** student
+* 💻 Passionate about turning logic into clean, working code
+* 📚 Building foundations in Data Structures, Algorithms, and AI concepts
+* 🌱 Always learning — one project, one problem at a time
 
 ---
 
