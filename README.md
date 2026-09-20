@@ -4,6 +4,10 @@
 
 <br>
 
+<img src="https://raw.githubusercontent.com/faizashakeel1084-art/faizashakeel1084-art/main/profile.jpg" width="150" style="border-radius:50%;border:2px solid #00E5FF;" alt="Faiza Shakeel"/>
+
+<br><br>
+
 ![AI Student](https://img.shields.io/badge/AI_STUDENT-0A0E14?style=for-the-badge&labelColor=00E5FF&color=0A0E14)
 ![Systems Builder](https://img.shields.io/badge/SYSTEMS_BUILDER-0A0E14?style=for-the-badge&labelColor=00E5FF&color=0A0E14)
 ![Engineer in Progress](https://img.shields.io/badge/ENGINEER_IN_PROGRESS-0A0E14?style=for-the-badge&labelColor=00E5FF&color=0A0E14)
@@ -123,6 +127,17 @@ A banking operations system, originally implemented in C++ and now being rebuilt
 ![Git](https://img.shields.io/badge/Git-0A0E14?style=flat-square&logo=git&logoColor=00E5FF)
 ![GitHub](https://img.shields.io/badge/GitHub-0A0E14?style=flat-square&logo=github&logoColor=00E5FF)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-0A0E14?style=flat-square&logo=githubpages&logoColor=00E5FF)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" colspan="2">
+
+**Fundamentals**
+
+![Data Structures](https://img.shields.io/badge/Data%20Structures-0A0E14?style=flat-square&logo=leetcode&logoColor=00E5FF)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-0A0E14?style=flat-square&logo=codeforces&logoColor=00E5FF)
+![Project Management](https://img.shields.io/badge/Project%20Management-0A0E14?style=flat-square&logo=trello&logoColor=00E5FF)
 
 </td>
 </tr>
