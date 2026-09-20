@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:0A0E14&height=180&section=header&text=FAIZA%20SHAKEEL&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=45&desc=AI%20Student%20%C2%B7%20Systems%20Builder&descAlignY=65&descSize=16&descColor=8FA3AD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:0A0E14&height=190&section=header&text=FAIZA%20SHAKEEL&fontSize=52&fontColor=00E5FF&animation=fadeIn&fontAlignY=40&desc=AI%20Student%20%C2%B7%20Systems%20Builder&descAlignY=62&descSize=17&descColor=8FA3AD" width="100%"/>
+
+<br>
+
+![AI Student](https://img.shields.io/badge/AI_STUDENT-0A0E14?style=for-the-badge&labelColor=00E5FF&color=0A0E14)
+![Systems Builder](https://img.shields.io/badge/SYSTEMS_BUILDER-0A0E14?style=for-the-badge&labelColor=00E5FF&color=0A0E14)
+![Engineer in Progress](https://img.shields.io/badge/ENGINEER_IN_PROGRESS-0A0E14?style=for-the-badge&labelColor=00E5FF&color=0A0E14)
 
 <br>
 
@@ -51,6 +57,8 @@ From foundational programming toward applied AI engineering.
 </tr>
 </table>
 
+<sub>**More on the way** — next up: exploring Object-Oriented Programming and using it in upcoming projects.</sub>
+
 <br>
 
 ## Education
@@ -89,6 +97,10 @@ A banking operations system, originally implemented in C++ and now being rebuilt
 </td>
 </tr>
 </table>
+
+<div align="center">
+<sub>🚧 More on the way — new projects are actively in progress.</sub>
+</div>
 
 <br>
 
