@@ -104,3 +104,43 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizashakeel1084-art&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats"/>
 
 </div>
+
+---
+
+<!-- UNIQUE TERMINAL-INSPIRED CONNECT FOOTER -->
+<div align="center">
+
+<h3>🌐 Let's Build Something Intelligent</h3>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="background: #0d1117; border-radius: 16px; padding: 25px; border: 1px solid #30363d;">
+      <p style="color: #8b949e; font-family: monospace; font-size: 14px; margin-bottom: 15px;">
+        <code>$ faiza --init-connection --status=open</code>
+      </p>
+      <p style="color: #c9d1d9; font-size: 15px; margin-bottom: 20px;">
+        Got an interesting problem, AI project, or tech idea? Let's talk code.
+      </p>
+      <a href="mailto:faizashakeel1084@gmail.com">
+        <img src="https://img.shields.io/badge/Direct_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/faiza-s-85748041b">
+        <img src="https://img.shields.io/badge/LinkedIn_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/faizashakeel1084-art/my_portfolio">
+        <img src="https://img.shields.io/badge/Explore_Portfolio-000000?style=for-the-badge&logo=github&logoColor=00FF9D" alt="Portfolio"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center"><i>✨ Thanks for stopping by! Star my repositories if you find something useful. ✨</i></p>
+
+<!-- BOTTOM GLOW WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,11,32,00FF9D,7B2CBF&height=110&section=footer" width="100%" alt="Footer Banner"/>
+
+</div>
