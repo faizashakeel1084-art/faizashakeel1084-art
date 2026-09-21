@@ -96,8 +96,8 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=faizashakeel1084-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faizashakeel1084-art&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=faizashakeel1084-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizashakeel1084-art&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
 
 <br/><br/>
 
