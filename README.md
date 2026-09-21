@@ -38,10 +38,30 @@ I’m drawn to the space where **mathematics meets logic, and logic meets creati
 
 Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the foundations of **AI**, one concept and one project at a time.
 
-* 🤖 **BS Artificial Intelligence** student
-* 💻 Passionate about turning logic into clean, working code
-* 📚 Building foundations in Data Structures, Algorithms, and AI concepts
-* 🌱 Always learning — one project, one problem at a time
+---
+
+### 🎓 Academic Background
+
+<div align="center">
+
+| Degree | Institution | Performance Metric | Status |
+| :--- | :--- | :---: | :---: |
+| <b>BS Artificial Intelligence</b> | 🏛️ <b>COMSATS University Islamabad</b><br/><i>Lahore Campus</i> | <img src="https://img.shields.io/badge/CGPA-3.80%20%2F%204.00-00FF9D?style=for-the-badge&logoColor=black"/> | 🟢 In Progress |
+
+</div>
+
+---
+
+### 🔥 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Code Link |
+| :--- | :--- | :--- | :--- |
+| 📚 **Library Management System** | Complete system for book records, issuance, and data persistence. | `C++` `File Handling` | [📦 View Code](https://github.com/faizashakeel1084-art/library-management-system-cpp) |
+| 🏦 **Smart Banking System** | Automated banking logic for account operations and secure transactions. | `C++` `Data Structures` | [📦 View Code](https://github.com/faizashakeel1084-art/smart-banking-system-) |
+
+</div>
 
 ---
 
@@ -65,33 +85,6 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 
 <img src="https://img.shields.io/badge/PROBLEM_SOLVING-00FF9D?style=for-the-badge&labelColor=111&logoColor=white"/>
 <img src="https://img.shields.io/badge/FILE_HANDLING-7B2CBF?style=for-the-badge&logoColor=white"/>
-
-</div>
-
----
-
-### 🎓 Academic Background
-
-<div align="center">
-
-| Degree | Institution | Performance Metric | Status |
-| :--- | :--- | :---: | :---: |
-| <b>BS Artificial Intelligence</b> | 🏛️ <b>COMSATS University Islamabad</b><br/><i>Lahore Campus</i> | <img src="https://img.shields.io/badge/CGPA-3.80%20%2F%204.00-00FF9D?style=for-the-badge&logoColor=black"/> | 🟢 In Progress |
-
-</div>
-
----
-
-> 💬 *"First, solve the problem. Then, write the code."* — John Johnson
-
-### 🔥 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Code Link |
-| :--- | :--- | :--- | :--- |
-| 📚 **Library Management System** | Complete system for book records, issuance, and data persistence. | `C++` `File Handling` | [📦 View Code](https://github.com/faizashakeel1084-art/library-management-system-cpp) |
-| 🏦 **Smart Banking System** | Automated banking logic for account operations and secure transactions. | `C++` `Data Structures` | [📦 View Code](https://github.com/faizashakeel1084-art/smart-banking-system-) |
 
 </div>
 
