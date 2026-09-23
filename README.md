@@ -42,6 +42,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 
 ### 🎓 Academic Background
 
+
 <div align="center">
 
 | Degree | Institution | Performance Metric | Status |
@@ -64,7 +65,6 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 </div>
 
 ---
-
 <h3>🛠️ Tech Stack & Skills</h3>
 
 <div align="center">
@@ -130,5 +130,4 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 
 <!-- BOTTOM GLOW WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,11,32,00FF9D,7B2CBF&height=110&section=footer" width="100%" alt="Footer Banner"/>
-
 </div>
