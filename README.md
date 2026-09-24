@@ -11,6 +11,7 @@
 <br/>
 
 <!-- MODERN HIGH-CONTRAST BADGES -->
+
 <p align="center">
   <a href="https://www.linkedin.com/in/faiza-s-85748041b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
