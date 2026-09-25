@@ -15,6 +15,7 @@
 
 <!-- MODERN HIGH-CONTRAST BADGES -->
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/faiza-s-85748041b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -31,6 +32,7 @@
 </div>
 
 ---
+
 
 <h2>🎓 About Me</h2>
 
@@ -67,6 +69,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 | 🏦 **Smart Banking System** | Automated banking logic for account operations and secure transactions. | `C++` `Data Structures` | [📦 View Code](https://github.com/faizashakeel1084-art/smart-banking-system-) |
 
 </div>
+
 
 ---
 <h3>🛠️ Tech Stack & Skills</h3>
