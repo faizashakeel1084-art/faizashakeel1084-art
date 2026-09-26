@@ -95,6 +95,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 
 </div>
 
+
 ---
 
 <p align="center"><b>⚡ Logic over luck. ⚡</b></p>
@@ -110,6 +111,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizashakeel1084-art&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats"/>
 
+
 </div>
 
 ---
@@ -119,9 +121,11 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 
 <h2>🤝 Let's Connect & Collaborate</h2>
 
+
 <p>Have an interesting AI project or logic puzzle? Let's build something together.</p>
 
 <br/>
+
 
 <a href="mailto:faizashakeel1084@gmail.com">
   <img src="https://img.shields.io/badge/Send_Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email"/>
@@ -130,6 +134,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 <a href="https://www.linkedin.com/in/faiza-s-85748041b">
   <img src="https://img.shields.io/badge/Connect_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9D" alt="LinkedIn"/>
 </a>
+
 
 <br/><br/>
 
