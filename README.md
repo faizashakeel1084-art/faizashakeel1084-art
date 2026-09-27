@@ -10,11 +10,7 @@
 
 <br/>
 
-
-
-
 <!-- MODERN HIGH-CONTRAST BADGES -->
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faiza-s-85748041b">
@@ -33,7 +29,6 @@
 
 ---
 
-
 <h2>🎓 About Me</h2>
 
 <img align="right" src="https://raw.githubusercontent.com/faizashakeel1084-art/faizashakeel1084-art/main/IMG_3879.jpeg" width="180px" style="border-radius: 12px; margin-left: 15px;" alt="Faiza Shakeel"/>
@@ -47,7 +42,6 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 ---
 
 ### 🎓 Academic Background
-
 
 <div align="center">
 
@@ -69,7 +63,6 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 | 🏦 **Smart Banking System** | Automated banking logic for account operations and secure transactions. | `C++` `Data Structures` | [📦 View Code](https://github.com/faizashakeel1084-art/smart-banking-system-) |
 
 </div>
-
 
 ---
 <h3>🛠️ Tech Stack & Skills</h3>
@@ -94,7 +87,6 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 <img src="https://img.shields.io/badge/FILE_HANDLING-7B2CBF?style=for-the-badge&logoColor=white"/>
 
 </div>
-
 
 ---
 
