@@ -10,6 +10,7 @@
 
 <br/>
 
+
 <!-- MODERN HIGH-CONTRAST BADGES -->
 
 <p align="center">
@@ -26,9 +27,7 @@
 </p>
 
 </div>
-
 ---
-
 <h2>🎓 About Me</h2>
 
 <img align="right" src="https://raw.githubusercontent.com/faizashakeel1084-art/faizashakeel1084-art/main/IMG_3879.jpeg" width="180px" style="border-radius: 12px; margin-left: 15px;" alt="Faiza Shakeel"/>
