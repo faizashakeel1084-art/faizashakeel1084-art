@@ -9,7 +9,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vcenter=true&width=600&height=40&lines=%E2%9A%A1+Transforming+Ideas+into+Intelligent+Code;%F0%9F%A7%A0+Specializing+in+AI%2C+Data+Structures+%26+Algorithms;%F0%9F%8D%B3+COMSATS+University+Lahore" alt="Typing SVG" />
 
 <br/>
+
 <!-- MODERN HIGH-CONTRAST BADGES -->
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faiza-s-85748041b">
@@ -102,11 +104,9 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizashakeel1084-art&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats"/>
 
-
 </div>
 
 ---
-
 
 <!-- ULTRA MINIMAL & CLEAN CONNECT FOOTER -->
 <div align="center">
