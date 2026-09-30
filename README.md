@@ -59,7 +59,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 | Project | Description | Tech Stack | Code Link |
 | :--- | :--- | :--- | :--- |
 | 📚 **Library Management System** | Complete system for book records, issuance, and data persistence. | `C++` `File Handling` | [📦 View Code](https://github.com/faizashakeel1084-art/library-management-system-cpp) |
-| 🏦 **Smart Banking System** | Automated banking logic for account operations and secure transactions. | `C++` `Data Structures` | [📦 View Code](https://github.com/faizashakeel1084-art/smart-banking-system-) |
+| 🏦 **Smart Banking System** | Automated banking logic for account operations and secure transactions. | `Python` `Data Structures` | [📦 View Code](https://github.com/faizashakeel1084-art/smart-banking-system-) |
 
 </div>
 
