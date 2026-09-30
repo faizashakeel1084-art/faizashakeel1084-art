@@ -27,7 +27,9 @@
 </p>
 
 </div>
+
 ---
+
 <h2>🎓 About Me</h2>
 
 <img align="right" src="https://raw.githubusercontent.com/faizashakeel1084-art/faizashakeel1084-art/main/IMG_3879.jpeg" width="180px" style="border-radius: 12px; margin-left: 15px;" alt="Faiza Shakeel"/>
@@ -39,7 +41,6 @@ I’m drawn to the space where **mathematics meets logic, and logic meets creati
 Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the foundations of **AI**, one concept and one project at a time.
 
 ---
-
 ### 🎓 Academic Background
 
 <div align="center">
@@ -49,7 +50,6 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 | <b>BS Artificial Intelligence</b> | 🏛️ <b>COMSATS University Islamabad</b><br/><i>Lahore Campus</i> | <img src="https://img.shields.io/badge/CGPA-3.80%20%2F%204.00-00FF9D?style=for-the-badge&logoColor=black"/> | 🟢 In Progress |
 
 </div>
-
 ---
 
 ### 🔥 Featured Projects
