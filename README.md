@@ -12,7 +12,6 @@
 
 <!-- MODERN HIGH-CONTRAST BADGES -->
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/faiza-s-85748041b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -41,6 +40,7 @@ I’m drawn to the space where **mathematics meets logic, and logic meets creati
 Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the foundations of **AI**, one concept and one project at a time.
 
 ---
+
 ### 🎓 Academic Background
 
 <div align="center">
@@ -50,6 +50,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 | <b>BS Artificial Intelligence</b> | 🏛️ <b>COMSATS University Islamabad</b><br/><i>Lahore Campus</i> | <img src="https://img.shields.io/badge/CGPA-3.80%20%2F%204.00-00FF9D?style=for-the-badge&logoColor=black"/> | 🟢 In Progress |
 
 </div>
+
 ---
 
 ### 🔥 Featured Projects
@@ -64,7 +65,6 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 </div>
 
 ---
-
 
 <h3>🛠️ Tech Stack & Skills</h3>
 
