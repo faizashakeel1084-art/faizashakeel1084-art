@@ -8,6 +8,7 @@
 <!-- DYNAMIC TYPING SVG SUBTITLE -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vcenter=true&width=600&height=40&lines=%E2%9A%A1+Transforming+Ideas+into+Intelligent+Code;%F0%9F%A7%A0+Specializing+in+AI%2C+Data+Structures+%26+Algorithms;%F0%9F%8D%B3+COMSATS+University+Lahore" alt="Typing SVG" />
 
+
 <br/>
 
 <!-- MODERN HIGH-CONTRAST BADGES -->
@@ -75,6 +76,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
   <img src="https://skillicons.dev/icons?i=py,cpp,git,github,vscode,clion&perline=6" alt="Tech Stack Icons"/>
 </a>
 
+
 <br/><br/>
 
 <!-- STYLISH NEON PILL BADGES FOR CORE CONCEPTS -->
@@ -99,6 +101,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 
 <img src="https://github-readme-stats.vercel.app/api?username=faizashakeel1084-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizashakeel1084-art&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+
 
 <br/><br/>
 
