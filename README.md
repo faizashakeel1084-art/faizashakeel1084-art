@@ -1,6 +1,5 @@
 <div align="center">
-
-
+  
 <!-- DYNAMIC CAPSULE WAVE BANNER HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,11,32,00FF9D,7B2CBF&height=220&section=header&text=Faiza%20Shakeel&fontSize=50&fontAlignY=38&animation=twinkling&desc=Aspiring%20AI%20Engineer%20%7C%20AI%20Builder%20%7C%20Lifelong%20Learner&descAlignY=62&descScale=16" width="100%" alt="Header Banner"/>
 
@@ -10,7 +9,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vcenter=true&width=600&height=40&lines=%E2%9A%A1+Transforming+Ideas+into+Intelligent+Code;%F0%9F%A7%A0+Specializing+in+AI%2C+Data+Structures+%26+Algorithms;%F0%9F%8D%B3+COMSATS+University+Lahore" alt="Typing SVG" />
 
 <br/>
-
 
 <!-- MODERN HIGH-CONTRAST BADGES -->
 
@@ -26,6 +24,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=faizashakeel1084-art&color=00FF9D&style=for-the-badge&label=VIEWS" alt="Views"/>
 </p>
+
 
 </div>
 
@@ -54,7 +53,6 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 </div>
 
 ---
-
 
 ### 🔥 Featured Projects
 
