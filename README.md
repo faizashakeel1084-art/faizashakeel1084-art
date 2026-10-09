@@ -50,7 +50,9 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 | <b>BS Artificial Intelligence</b> | 🏛️ <b>COMSATS University Islamabad</b><br/><i>Lahore Campus</i> | <img src="https://img.shields.io/badge/CGPA-3.80%20%2F%204.00-00FF9D?style=for-the-badge&logoColor=black"/> | 🟢 In Progress |
 
 </div>
+
 ---
+
 ### 🔥 Featured Projects
 
 <div align="center">
@@ -61,6 +63,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 | 🏦 **Smart Banking System** | Automated banking logic for account operations and secure transactions. | `Python` `Data Structures` | [📦 View Code](https://github.com/faizashakeel1084-art/smart-banking-system-) |
 
 </div>
+
 ---
 
 <h3>🛠️ Tech Stack & Skills</h3>
@@ -96,7 +99,6 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 
 <img src="https://github-readme-stats.vercel.app/api?username=faizashakeel1084-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizashakeel1084-art&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
-
 
 <br/><br/>
 
