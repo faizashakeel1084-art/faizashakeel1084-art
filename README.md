@@ -10,6 +10,7 @@
 
 <br/>
 
+
 <!-- MODERN HIGH-CONTRAST BADGES -->
 
 <p align="center">
@@ -64,6 +65,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 
 </div>
 
+
 ---
 
 <h3>🛠️ Tech Stack & Skills</h3>
@@ -88,6 +90,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 <img src="https://img.shields.io/badge/FILE_HANDLING-7B2CBF?style=for-the-badge&logoColor=white"/>
 
 </div>
+
 
 ---
 
