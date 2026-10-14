@@ -10,7 +10,6 @@
 
 <br/>
 
-
 <!-- MODERN HIGH-CONTRAST BADGES -->
 
 <p align="center">
@@ -65,7 +64,6 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 
 </div>
 
-
 ---
 
 <h3>🛠️ Tech Stack & Skills</h3>
@@ -76,6 +74,7 @@ Currently exploring **Python, C++, Data Structures, Algorithms, OOP,** and the f
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,cpp,git,github,vscode,clion&perline=6" alt="Tech Stack Icons"/>
 </a>
+
 
 <br/><br/>
 
